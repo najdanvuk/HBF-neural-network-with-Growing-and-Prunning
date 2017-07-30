@@ -1,0 +1,24 @@
+% =========================================================================
+% =========================================================================
+% These files are free for non-commercial use. If commercial use is
+% intended, you can contact me at e-mail given below. The files are intended
+% for research use by experienced Matlab users and includes no warranties
+% or services.  Bug reports are gratefully received.
+% I wrote these files while I was working as scientific researcher
+% with University of Belgrade - Innovation Center at Faculty of Mechanical
+% Engineering so as to test my research ideas and show them to wider
+% community of researchers. None of the functions are meant to be optimal,
+% although I tried to (some extent) speed up execution. You are wellcome to
+% use these files for your own research provided you mention their origin.
+% If you would like to contact me, my e-mail is given below.
+% =========================================================================
+% If you use this code for your own research, please cite it as:
+% Vukovic,N., Miljkovic,Z., A Growing and Pruning Sequential Learning
+% Algorithm of Hyper Basis Function Neural Network for Function Approximation,
+% Neural Networks, Vol. 46C, pp.210-226, Elsevier, October 2013.
+% =========================================================================
+% =========================================================================
+% All rights reserved by: Dr. Najdan Vukovic
+% contact e-mail: najdanvuk@gmail.com or nvukovic@mas.bg.ac.rs
+% =========================================================================
+% =========================================================================
